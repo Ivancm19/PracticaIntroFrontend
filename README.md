@@ -75,4 +75,4 @@ Se creara una pasarela de pago para que el usuario ingrese datos financieros y p
 
 #  Ahora el UI
 
-![Alt text](https://github.com/Ivancm19/PracticaIntroFrontend/blob/main/Ui.png)
+![Alt text](https://github.com/Ivancm19/PracticaIntroFrontend/blob/main/UI.png)
