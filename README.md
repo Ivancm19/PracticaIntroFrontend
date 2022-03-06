@@ -57,8 +57,7 @@ Prioridad: Alta
 Se creara una pasarela de pago para que el usuario ingrese datos financieros y pueda concretar su compra dentro de la pagina web
 
 # Crea tu buyer persona
-IMAGEN
-
+![Alt text](https://github.com/Ivancm19/PracticaIntroFrontend/blob/main/buyerpersona.png)
 # Público Objetivo:
 
 - **Edad**: Personas entre 18 y 30 años
@@ -72,8 +71,8 @@ IMAGEN
 
 
 # Crea tu primer Wireframe UX
-IMAGEN
+![Alt text](https://github.com/Ivancm19/PracticaIntroFrontend/blob/main/WIREFRAME.png)
 
 #  Ahora el UI
 
-IMAGEN
+![Alt text](https://github.com/Ivancm19/PracticaIntroFrontend/blob/main/UX.png)
